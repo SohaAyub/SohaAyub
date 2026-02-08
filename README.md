@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m curren🎓 Software Engineering Student<br>🤖 Pursuing AI & Data Science Training from NUST (AIO Program)<br>📍 Gilgit-Baltistan, Pakistan 🏔️<br><br>🔭 I’m currently working on<br>AI & Data Science projects using real-world datasets<br>Machine Learning and NLP-based applications<br><br>👯 I’m looking to collaborate on<br>AI, ML, and Data Science projects<br>Open-source projects related to Python and AI<br><br>🤝 I’m looking for help with<br>Advanced Machine Learning models<br>Model deployment and optimization<br><br>🌱 I’m currently learning<br>Machine Learning & Deep Learning<br>Natural Language Processing (NLP)<br>Data Analysis & Visualization<br><br>💬 Ask me about<br>AI & Data Science<br>Python for ML<br>Academic & beginner-friendly AI projects<br><br>⚡ Fun fact<br>I love turning data into intelligent solutions and believe AI can shape a better tomorrow 🌍<br><br>🛠️ Skills<br>Languages: Python, C++, JavaScript<br>Web: HTML, CSS<br>AI/DS: Machine Learning, NLP, Data Analysistly learning<br><br>
+                           I'm Soha Ayub<br>🌱 I’m curren🎓 Software Engineering Student<br>🤖 Pursuing AI & Data Science Training from NUST (AIO Program)<br>📍 Gilgit-Baltistan, Pakistan 🏔️<br>🔭 I’m currently working on<br>AI & Data Science projects using real-world datasets<br>Machine Learning and NLP-based applications<br>👯 I’m looking to collaborate on<br>AI, ML, and Data Science projects<br>Open-source projects related to Python and AI<br>🤝 I’m looking for help with<br>Advanced Machine Learning models<br>Model deployment and optimization<br>🌱 I’m currently learning<br>Machine Learning & Deep Learning<br>Natural Language Processing (NLP)<br>Data Analysis & Visualization<br>💬 Ask me about<br>AI & Data Science<br>Python for ML<br>Academic & beginner-friendly AI projects<br>⚡ Fun fact<br>I love turning data into intelligent solutions and believe AI can shape a better tomorrow 🌍<br>🛠️ Skills<br>Languages: Python, C++, JavaScript<br>Web: HTML, CSS<br>AI/DS: Machine Learning, NLP, Data Analysistly learning<br><br>
 
 
 ## 🌐 Socials:
@@ -15,19 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Soha Ayub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
-
-<!--
-**SohaAyub/SohaAyub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
