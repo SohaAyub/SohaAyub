@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 I'm Soha Ayub<br><br>🎓 Software Engineering student<br>🤖 Pursuing AI & Data Science (AIO Program) from NUST<br>📍 Gilgit-Baltistan, Pakistan 🏔️<br>💡 Working on AI, ML, and NLP projects using real-world data<br>🌱 Currently learning Machine Learning, Deep Learning & NLP<br>🛠️ Skills: Python, C++, JavaScript, HTML, CSS<br>🚀 Passionate about building AI solutions for a better future
+ About Me:
+ I'm Soha Ayub<br><br>  Software Engineering student<br> Pursuing AI & Data Science (AIO Program) from NUST<br> Gilgit-Baltistan, Pakistan <br> Working on AI, ML, and NLP projects using real-world data<br> Currently learning Machine Learning, Deep Learning & NLP<br> Skills: Python, C++, JavaScript, HTML, CSS<br> Passionate about building AI solutions for a better future
 
 
 ## 🌐 Socials:
